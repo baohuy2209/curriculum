@@ -1,4 +1,4 @@
-### Introduction
+## Introduction
 
 The "frontend" denotes the interface that a web user interacts with - what they see (and hear) when using the web. The three languages of the frontend are fairly standardized: HTML for markup, CSS for presentation, and JavaScript for scripting.
 
